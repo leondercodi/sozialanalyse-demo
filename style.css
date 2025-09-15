@@ -14,7 +14,7 @@ body {
 
 /* Hero-Bereich mit Bild */
 .hero {
-  background: url('assets/background.jpg') no-repeat center center;
+  background: url('assets/background-quartier.jpg') no-repeat center center;
   background-size: cover;
   height: 100vh;
   display: flex;
